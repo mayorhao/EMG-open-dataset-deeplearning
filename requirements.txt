@@ -1,0 +1,65 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1606236319513/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools==3.1.1
+certifi==2020.12.5
+cffi==1.10.0
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1607673831443/work
+click==7.1.2
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1607606142574/work
+cycler==0.10.0
+dataclasses==0.8
+fastcluster==1.1.25
+ffmpy==0.2.2
+google-auth==1.7.1
+google-auth-oauthlib==0.4.1
+grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpcio_1607005023880/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+imageio==2.5.0
+imageio-ffmpeg==0.3.0
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1607975943230/work
+joblib==1.0.0
+kiwisolver==1.3.1
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
+matplotlib==3.3.3
+mkl-fft==1.2.0
+mkl-random==1.2.0
+mkl-service==2.3.0
+numpy==1.19.4
+nvidia-ml-py3==7.352.0
+oauthlib==3.0.1
+olefile==0.44
+opencv-python==4.1.0.25
+pandas==1.1.5
+pathlib==1.0.1
+Pillow==8.0.1
+protobuf==3.14.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser==2.18
+PyJWT==1.7.1
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1602326920180/work
+python-dateutil==2.8.1
+pytz==2020.5
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+rsa==4.0
+scikit-learn==0.23.2
+scipy==1.5.4
+seaborn==0.11.1
+six==1.10.0
+sklearn==0.0
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1605165799666/work/tensorboard-2.4.0-py3-none-any.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1603349307347/work/tensorboard_plugin_wit-1.7.0-py3-none-any.whl
+tensorboardX==2.1
+threadpoolctl==2.1.0
+toposort==1.5
+torch==1.7.1
+torchvision==0.2.2
+tqdm==4.54.1
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+Werkzeug==1.0.1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
